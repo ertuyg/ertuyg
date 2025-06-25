@@ -48,6 +48,9 @@ I dive deep into the client's domain, not just the codebase — combining modern
 [LinkedIn](https://www.linkedin.com/in/ertanuygan)
 
 ---
+<!-- Optional note for private repos:
+🛠️ Most of my repositories are private due to client confidentiality, but I'm happy to showcase relevant work upon request.
+-->
 
 #### 🌍 Open to international collaborations  
 I'm open to contributing to well-scoped, high-impact projects across Europe — particularly those focused on modern cloud architecture, serverless systems, or content automation.
