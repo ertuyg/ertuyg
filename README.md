@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👋 Hi, I'm Ertan Uygan
 
-<!--
-**ertuyg/ertuyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a solution-oriented software consultant with 25+ years of experience in designing and delivering end-to-end systems — from the initial idea to full production rollout.
 
-Here are some ideas to get you started:
+Clients come to me with a challenge.  
+I return with a complete, working solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 **What I do**
+
+I work on long-term, tailor-made software projects across industries like:
+- 📦 Warehousing & fulfillment
+- 🏥 Healthcare & medical publishing
+- 🏗️ Construction & retail operations
+- 📚 Academic content & automation
+
+I dive deep into the client's domain, not just the codebase — combining modern cloud-native architecture with hands-on execution.
+
+---
+
+💡 **Tech Focus**
+
+- Serverless architecture on AWS (Lambda, SQS, DynamoDB, API Gateway)
+- Frontend with Nuxt 3, Vue, TailwindCSS
+- Backend with Node.js & TypeScript
+- Infrastructure as Code with Terraform
+- AI-assisted workflow automation
+- GitHub Actions & CI/CD for event-based deployments
+
+---
+
+📌 **Currently working on**
+- A large-scale article management system for scholarly publishers
+- Tools for metadata extraction and XML/JSON transformation
+- Event-driven automation across various sectors
+
+---
+
+🧭 **Values**
+- Clarity over complexity  
+- Deliverables over documentation  
+- Sustainable systems over shiny tech  
+
+---
+
+📫 Feel free to connect:  
+[LinkedIn](https://www.linkedin.com/in/ertanuygan)
+
+---
+
+#### 🌍 Open to international collaborations  
+I'm open to contributing to well-scoped, high-impact projects across Europe — particularly those focused on modern cloud architecture, serverless systems, or content automation.
